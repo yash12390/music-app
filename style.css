@@ -1,0 +1,24 @@
+body {
+    background-image: url("istockphoto-1076840920-612x612.jpg");
+    background-color: #cccccc;
+   }
+   .heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+   }
+   body
+{
+    background-size: cover;
+}
+span {
+    float: left;
+    clear: left;
+  }
+  canvas
+  {
+      border:5px solid white;
+      border-radius:20px;
+  
+  }
+  
